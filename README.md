@@ -1,5 +1,12 @@
 # Code_Refactor
 
+![HoriseonScreenshot](.\assets\images\HoriseonScreenshot.png)
+
+##Link to Webpage
+
+https://schristinelagrange.github.io/Code_Refactor/
+
+
 ## Description
 
 - My  motivation for this project was simplify the css for the Horiseon website in order to achieve long-term sustainability for the web-developers working on it.
