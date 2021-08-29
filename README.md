@@ -1,8 +1,7 @@
 # Code_Refactor
 
-[HoriseonScreenshot](./assets/images/HoriseonScreenshot.png)
+[Horiseon Webpage Screenshot](./assets/images/HoriseonScreenshot.png)
 
-##Link to Webpage
 
 https://schristinelagrange.github.io/Code_Refactor/
 
